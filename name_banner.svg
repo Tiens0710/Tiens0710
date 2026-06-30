@@ -80,19 +80,28 @@
         filter: url(#glow);
         animation: flicker 4s infinite;
       }
+      .neon-frame-back {
+        fill: none;
+        stroke: #00b8a0;
+        stroke-width: 1.8;
+        filter: url(#glowFrame);
+        opacity: 0.6;
+        animation: glitchShift 5s infinite;
+      }
       .neon-frame {
         fill: none;
         stroke: #1affd9;
         stroke-width: 1.8;
         filter: url(#glowFrame);
-        animation: framePulse 3s infinite ease-in-out;
+        animation: framePulse 3s infinite ease-in-out, glitchShift 5s infinite;
       }
     </style>
   </defs>
 
   <rect width="820" height="160" fill="#05010a"/>
 
-  <!-- thin neon outline -->
+  <!-- thin neon outline (glitch layers) -->
+  <rect x="20" y="20" width="780" height="120" rx="18" class="neon-frame-back"/>
   <rect x="20" y="20" width="780" height="120" rx="18" class="neon-frame"/>
 
   <text x="412" y="92" text-anchor="middle" class="layer-back">Nguyen Nhat Tien</text>
