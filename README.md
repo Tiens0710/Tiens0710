@@ -1,76 +1,215 @@
-<h1 align="center">Hi 👋, I'm Nguyễn Nhật Tiến</h1>
-<h3 align="center">Computer Science Student | AI & ODOO Developer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=whoami;Ng%E1%BB%8DT+Nh%E1%BA%ADt+Ti%E1%BA%BFn+%7C+07%2F10%2F2004;cat+current_focus.json;%7B%22studying%22%3A+%5B%22AI%22%2C+%22BLOCKCHAIN%22%2C+%22ODOO%22%2C+%22REACT%22%5D%7D;Building+AI+%26+3D+Generation+Pipelines" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=200&section=header&text=Nguyen%20Nhat%20Tien&fontSize=46&fontColor=00ff41&fontAlignY=38&animation=fadeIn&desc=Computer%20Science%20Student%20%7C%20AI%20%26%20ODOO%20Developer&descAlignY=58&descSize=18&descColor=39ff14" width="100%"/>
 
-<p align="center">
-  <a href="https://tiens0710.id.vn/"><img src="https://img.shields.io/badge/Portfolio-tiens0710.id.vn-00FF41?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.facebook.com/tiens0710"><img src="https://img.shields.io/badge/Facebook-tiens0710-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=39FF14&background=0D1117&center=true&vCenter=true&width=750&height=50&lines=root%40tien%3A~%24+whoami;Nguyen+Nhat+Tien+%7C+Computer+Science+Student;root%40tien%3A~%24+cat+skills.json;Odoo+%7C+AI%2FML+%7C+Blockchain+%7C+Full-Stack;root%40tien%3A~%24+./run_career_objective.sh;Building+scalable+AI-powered+software...;Status%3A+Online+%E2%9C%93" alt="Typing SVG" />
 
-```bash
-➜  ~ cat about_me.md
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-tiens0710.id.vn-0d1117?style=for-the-badge&logo=googlechrome&logoColor=39ff14&labelColor=000000)](https://tiens0710.id.vn/)
+[![Email](https://img.shields.io/badge/EMAIL-tengiadd7%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=39ff14&labelColor=000000)](mailto:tengiadd7@gmail.com)
+[![Facebook](https://img.shields.io/badge/FACEBOOK-tiens0710-0d1117?style=for-the-badge&logo=facebook&logoColor=39ff14&labelColor=000000)](https://www.facebook.com/tiens0710)
+
+</div>
+
+<br/>
+
+```ansi
+┌──────────────────────────────────────────────────────────────────────┐
+│ [SYSTEM LOG] Initializing profile...                                 │
+│ [OK] Loading user: Nguyen Nhat Tien (Intern)                         │
+│ [OK] Location: Can Tho, Vietnam                                      │
+│ [OK] University: Can Tho University of Technology (2022 - 2027)      │
+│ [OK] GPA: 3.51/4.0 — Scholarship every semester                      │
+│ [READY] Awaiting internship opportunities in AI / Software Eng...    │
+└──────────────────────────────────────────────────────────────────────┘
 ```
 
-- 🎓 4th-year Computer Science student at **Can Tho University of Technology**
-- 🧠 Currently focused on **AI**, **Machine Learning**, and **text-to-3D generation pipelines**
-- 🛠️ ODOO Developer (2+ years) — researching ERP customization & workflow automation
-- 📊 GPA: **3.51/4.0**
-- 🌱 Exploring Blockchain, AI Agents, and Computer Vision
-- 📫 Reach me via my [portfolio](https://tiens0710.id.vn/) contact form
+<br/>
 
-```bash
-➜  ~ ls -la skills/
+## `> career_objective.txt`
+
+```yaml
+objective: >
+  Computer Science student with 2+ years of hands-on experience in Odoo
+  development, AI/ML systems, and blockchain technologies. Seeking an
+  internship to apply expertise in building scalable software solutions,
+  integrating AI into real-world applications, and contributing to
+  impactful engineering work.
+status: Open to internship opportunities
 ```
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
+<br/>
 
-```bash
-➜  ~ cat featured_projects.json
+## `> tech_stack --list`
+
+<div align="center">
+
+**Languages**
+
+<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=39ff14" />
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=39ff14" />
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=39ff14" />
+<img src="https://img.shields.io/badge/C%2B%2B-0d1117?style=for-the-badge&logo=cplusplus&logoColor=39ff14" />
+<img src="https://img.shields.io/badge/HTML%2FCSS-0d1117?style=for-the-badge&logo=html5&logoColor=39ff14" />
+
+**Frameworks & Platforms**
+
+<img src="https://img.shields.io/badge/Odoo-0d1117?style=for-the-badge&logo=odoo&logoColor=39ff14" />
+<img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=39ff14" />
+<img src="https://img.shields.io/badge/React_Native-0d1117?style=for-the-badge&logo=react&logoColor=39ff14" />
+<img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=39ff14" />
+<img src="https://img.shields.io/badge/Starknet-0d1117?style=for-the-badge&logo=ethereum&logoColor=39ff14" />
+
+**AI / ML / Data**
+
+<img src="https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=39ff14" />
+<img src="https://img.shields.io/badge/Hugging_Face-0d1117?style=for-the-badge&logo=huggingface&logoColor=39ff14" />
+<img src="https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=langchain&logoColor=39ff14" />
+<img src="https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=39ff14" />
+<img src="https://img.shields.io/badge/Gemini_API-0d1117?style=for-the-badge&logo=googlegemini&logoColor=39ff14" />
+
+**Tools & Infra**
+
+<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=39ff14" />
+<img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=39ff14" />
+<img src="https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=39ff14" />
+<img src="https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=39ff14" />
+<img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=39ff14" />
+
+</div>
+
+<br/>
+
+## `> ls -la projects/`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌾 Smart Farm Management System
+**`Odoo · Python · XML · PostgreSQL`**
+
+Integrated Google Maps to visualize farm boundaries & assets, resolving data fragmentation for real-time operational oversight.
+
+`Company: Anabas Joint Stock Company`
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 Sales Management Mobile App
+**`React Native · TypeScript · SQLite · Gemini AI`**
+
+Full-featured POS & inventory app. Gemini AI for product classification, Vietnamese voice input, biometric auth, PDF invoicing.
+
+[`→ View Repo`](https://github.com/Tiens0710/quanlybanhang)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧊 Text-to-3D Generation
+**`PyTorch · Threestudio · NeRF · Stable Diffusion`**
+
+Researched & implemented text-to-3D generation workflows with diffusion-based optimization (SDS/SJC) for high-quality 3D assets.
+
+[`→ View Repo`](https://github.com/Tiens0710/ChatbotHoTroTuyenSinh)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 Student AI Assistant (RAG)
+**`LangChain · Gemma LLM · Gemini API · ChromaDB`**
+
+Built a Retrieval-Augmented Generation pipeline for high-accuracy student info lookup, minimizing AI hallucinations.
+
+[`→ View Project`](https://drive.google.com/drive/folders/19BxNalBgbsg75K1ViNzsFIQPSFljjTF)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗣️ Vietnamese NLP Chatbot
+**`PhoBERT · Transformers · PyTorch · Streamlit`**
+
+Custom Vietnamese NLP engine for intent & entity recognition, powering automated admissions counseling.
+
+[`→ View Repo`](https://github.com/Tiens0710/ChatbotHoTroTuyenSinh)
+
+</td>
+<td width="50%" valign="top">
+
+### 🍜 FoGether — Social Food Sharing
+**`Next.js · Supabase · Tailwind · Google Maps API`**
+
+Full-stack social platform: Google OAuth, geolocation tagging, TikTok-style vertical feed with real-time interactions.
+
+[`→ Live Demo`](https://homnayangidayta.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎮 Pokemon Motion Controller
+**`MediaPipe · OpenCV · Unity (C#) · UDP Socket`**
+
+Real-time motion control bridging Python CV with Unity — pose & hand gesture recognition via low-latency UDP transmission.
+
+[`→ View Repo`](https://github.com/Tiens0710/unity-pokemon-motiondetection)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI Agents · LLMs · Computer Vision
+**`YOLO · Chatbots · RAG · AI Agents`**
+
+Ongoing research into AI agent architectures, computer vision (YOLO), and LLM-powered applications.
+
+[`→ GitHub Profile`](https://github.com/Tiens0710)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## `> cat certificates.log`
+
+```diff
++ [2026-03-07] Software Engineer Intern — HackerRank
++ [2026-01-31] Start Writing Prompts like a Pro — Coursera
++ [2025-09-15] Foundations of Cybersecurity — Coursera
++ [2025-07-27] TOEIC 735 — CTUT
++ [2025-06-15] Graduate with Honors — Starknet Foundation
++ [2024-07-30] Python (Basic) — HackerRank
 ```
 
-| Project | Description | Stack |
-|---|---|---|
-| 🏢 **ODOO ERP Development** | Customization modules & workflow automation, research with faculty | Python · ODOO · XML · PostgreSQL |
-| 🤖 **AI Agent / Chatbot** | Conversational chatbot with context-aware NLP responses | Python · NLP · TensorFlow · Flask |
-| 😷 **Face Mask Detection** | Real-time mask detection via computer vision | Python · OpenCV · TensorFlow |
-| 🎯 **YOLOv8 Object Detection** | Real-time multi-object detection in video streams | Python · YOLOv8 · PyTorch |
-| 🛒 **Recommender Systems** | Collaborative + content-based filtering for e-commerce | Python · Pandas · Scikit-learn |
+<br/>
+
+## `> ./fetch_github_stats.sh`
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Tiens0710&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=c9d1d9&border_color=39ff14" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Tiens0710&hide_border=true&background=0d1117&ring=39ff14&fire=39ff14&currStreakLabel=39ff14&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiens0710&layout=compact&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9&border_color=39ff14" />
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tiens0710&bg_color=0d1117&color=39ff14&line=39ff14&point=ffffff&area=true&hide_border=true" width="100%"/>
+</div>
+
+<br/>
 
 ```bash
-➜  ~ ./show_stats.sh
+root@tien:~$ echo "Thanks for stopping by. Let's build something."
+Thanks for stopping by. Let's build something.
+root@tien:~$ █
 ```
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tiens0710&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tiens0710&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiens0710&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-```bash
-➜  ~ echo "Thanks for visiting!"
-```
-
-<p align="center"><i>🌐 Check out my full portfolio at <a href="https://tiens0710.id.vn/">tiens0710.id.vn</a></i></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0d1117&height=100&section=footer" width="100%"/>
