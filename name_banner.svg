@@ -25,6 +25,7 @@
       <rect width="4" height="2" fill="#000000" opacity="0.06"/>
     </pattern>
     <style>
+      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@700;900&amp;display=swap');
       @keyframes flicker {
         0%   { opacity: 1; }
         2%   { opacity: 0.4; }
@@ -44,7 +45,7 @@
         93% { transform: translate(0,0); }
       }
       .layer-back {
-        font-family: 'Courier New', monospace;
+        font-family: 'Fira Code', 'Courier New', monospace;
         font-weight: 900;
         font-size: 46px;
         letter-spacing: 4px;
@@ -54,7 +55,7 @@
         animation: glitchShift 5s infinite;
       }
       .layer-front {
-        font-family: 'Courier New', monospace;
+        font-family: 'Fira Code', 'Courier New', monospace;
         font-weight: 900;
         font-size: 46px;
         letter-spacing: 4px;
@@ -65,7 +66,7 @@
     </style>
   </defs>
   <rect width="820" height="120" fill="#05010a"/>
-  <text x="412" y="68" text-anchor="middle" class="layer-back">NGUYEN NHAT TIEN</text>
-  <text x="410" y="68" text-anchor="middle" class="layer-front">NGUYEN NHAT TIEN</text>
+  <text x="412" y="68" text-anchor="middle" class="layer-back">Nguyen Nhat Tien</text>
+  <text x="410" y="68" text-anchor="middle" class="layer-front">Nguyen Nhat Tien</text>
   <rect width="820" height="120" fill="url(#scan)"/>
 </svg>
