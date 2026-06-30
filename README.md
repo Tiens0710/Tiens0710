@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=22&amp;duration=2200&amp;pause=600&amp;color=39FF14&amp;background=0D1117&amp;center=true&amp;vCenter=true&amp;width=820&amp;height=40&amp;lines=Nguyen+Nhat+Tien" alt="Name" />
+<img src="font=Fira+Code&amp;weight=700&amp;size=22&amp;duration=2200&amp;pause=600&amp;color=39FF14&amp;background=0D1117&amp;center=true&amp;vCenter=true&amp;width=820&amp;height=40&amp;lines=Nguyen+Nhat+Tien" alt="Name" />
 
 </div>
 
