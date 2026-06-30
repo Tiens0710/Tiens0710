@@ -1,34 +1,71 @@
-<svg width="820" height="100" viewBox="0 0 820 100" xmlns="http://www.w3.org/2000/svg">
+<svg width="820" height="120" viewBox="0 0 820 120" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="6" result="blur1"/>
-      <feGaussianBlur stdDeviation="12" result="blur2"/>
+      <feGaussianBlur stdDeviation="2" result="blur1"/>
+      <feGaussianBlur stdDeviation="6" result="blur2"/>
+      <feGaussianBlur stdDeviation="14" result="blur3"/>
       <feMerge>
+        <feMergeNode in="blur3"/>
         <feMergeNode in="blur2"/>
         <feMergeNode in="blur1"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="gradPink" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#00ff41"/>
       <stop offset="50%" stop-color="#39ff14"/>
-      <stop offset="100%" stop-color="#00ff9d"/>
+      <stop offset="100%" stop-color="#0aff9d"/>
     </linearGradient>
+    <linearGradient id="gradCyan" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#aaff00"/>
+      <stop offset="50%" stop-color="#5cff1f"/>
+      <stop offset="100%" stop-color="#00ffb3"/>
+    </linearGradient>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="2" fill="#000000" opacity="0.06"/>
+    </pattern>
     <style>
       @keyframes flicker {
-        0%, 19%, 21%, 23%, 25%, 54%, 56%, 100% { opacity: 1; }
-        20%, 24%, 55% { opacity: 0.85; }
+        0%   { opacity: 1; }
+        2%   { opacity: 0.4; }
+        4%   { opacity: 1; }
+        8%   { opacity: 1; }
+        9%   { opacity: 0.3; }
+        10%  { opacity: 1; }
+        70%  { opacity: 1; }
+        72%  { opacity: 0.5; }
+        74%  { opacity: 1; }
+        100% { opacity: 1; }
       }
-      .neon-text {
-        font-family: 'Fira Code', 'Courier New', monospace;
+      @keyframes glitchShift {
+        0%, 90%, 100% { transform: translate(0,0); }
+        91% { transform: translate(-2px, 1px); }
+        92% { transform: translate(2px, -1px); }
+        93% { transform: translate(0,0); }
+      }
+      .layer-back {
+        font-family: 'Courier New', monospace;
         font-weight: 900;
         font-size: 46px;
-        fill: url(#grad);
+        letter-spacing: 4px;
+        fill: url(#gradPink);
+        filter: url(#glow);
+        opacity: 0.7;
+        animation: glitchShift 5s infinite;
+      }
+      .layer-front {
+        font-family: 'Courier New', monospace;
+        font-weight: 900;
+        font-size: 46px;
+        letter-spacing: 4px;
+        fill: url(#gradCyan);
         filter: url(#glow);
         animation: flicker 4s infinite;
       }
     </style>
   </defs>
-  <rect width="820" height="100" fill="#0d1117"/>
-  <text x="410" y="62" text-anchor="middle" class="neon-text">Nguyen Nhat Tien</text>
+  <rect width="820" height="120" fill="#05010a"/>
+  <text x="412" y="68" text-anchor="middle" class="layer-back">NGUYEN NHAT TIEN</text>
+  <text x="410" y="68" text-anchor="middle" class="layer-front">NGUYEN NHAT TIEN</text>
+  <rect width="820" height="120" fill="url(#scan)"/>
 </svg>
