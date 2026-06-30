@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=200&section=header&text=Nguyen%20Nhat%20Tien&fontSize=46&fontColor=00ff41&fontAlignY=38&animation=fadeIn&desc=Computer%20Science%20Student%20%7C%20AI%20%26%20ODOO%20Developer&descAlignY=58&descSize=18&descColor=39ff14" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,100:00ff41&amp;height=200&amp;section=header&amp;text=Nguyen%20Nhat%20Tien&amp;fontSize=46&amp;fontColor=00ff41&amp;fontAlignY=38&amp;animation=fadeIn&amp;desc=Computer%20Science%20Student%20%7C%20AI%20%26%20ODOO%20Developer&amp;descAlignY=58&amp;descSize=18&amp;descColor=39ff14" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=39FF14&background=0D1117&center=true&vCenter=true&width=750&height=50&lines=root%40tien%3A~%24+whoami;Nguyen+Nhat+Tien+%7C+Computer+Science+Student;root%40tien%3A~%24+cat+skills.json;Odoo+%7C+AI%2FML+%7C+Blockchain+%7C+Full-Stack;root%40tien%3A~%24+./run_career_objective.sh;Building+scalable+AI-powered+software...;Status%3A+Online+%E2%9C%93" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=800&amp;color=39FF14&amp;background=0D1117&amp;center=true&amp;vCenter=true&amp;width=750&amp;height=50&amp;lines=root%40tien%3A~%24+whoami;Nguyen+Nhat+Tien+%7C+Computer+Science+Student;root%40tien%3A~%24+cat+skills.json;Odoo+%7C+AI%2FML+%7C+Blockchain+%7C+Full-Stack;root%40tien%3A~%24+./run_career_objective.sh;Building+scalable+AI-powered+software...;Status%3A+Online+%E2%9C%93" alt="Typing SVG" />
 
 <br/>
 
@@ -47,35 +47,35 @@ status: Open to internship opportunities
 
 **Languages**
 
-<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=39ff14" />
-<img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=39ff14" />
-<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=39ff14" />
-<img src="https://img.shields.io/badge/C%2B%2B-0d1117?style=for-the-badge&logo=cplusplus&logoColor=39ff14" />
-<img src="https://img.shields.io/badge/HTML%2FCSS-0d1117?style=for-the-badge&logo=html5&logoColor=39ff14" />
+<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&amp;logo=python&amp;logoColor=39ff14" />
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&amp;logo=typescript&amp;logoColor=39ff14" />
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&amp;logo=javascript&amp;logoColor=39ff14" />
+<img src="https://img.shields.io/badge/C%2B%2B-0d1117?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=39ff14" />
+<img src="https://img.shields.io/badge/HTML%2FCSS-0d1117?style=for-the-badge&amp;logo=html5&amp;logoColor=39ff14" />
 
 **Frameworks & Platforms**
 
-<img src="https://img.shields.io/badge/Odoo-0d1117?style=for-the-badge&logo=odoo&logoColor=39ff14" />
-<img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=39ff14" />
-<img src="https://img.shields.io/badge/React_Native-0d1117?style=for-the-badge&logo=react&logoColor=39ff14" />
-<img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=39ff14" />
-<img src="https://img.shields.io/badge/Starknet-0d1117?style=for-the-badge&logo=ethereum&logoColor=39ff14" />
+<img src="https://img.shields.io/badge/Odoo-0d1117?style=for-the-badge&amp;logo=odoo&amp;logoColor=39ff14" />
+<img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&amp;logo=react&amp;logoColor=39ff14" />
+<img src="https://img.shields.io/badge/React_Native-0d1117?style=for-the-badge&amp;logo=react&amp;logoColor=39ff14" />
+<img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=39ff14" />
+<img src="https://img.shields.io/badge/Starknet-0d1117?style=for-the-badge&amp;logo=ethereum&amp;logoColor=39ff14" />
 
 **AI / ML / Data**
 
-<img src="https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=39ff14" />
-<img src="https://img.shields.io/badge/Hugging_Face-0d1117?style=for-the-badge&logo=huggingface&logoColor=39ff14" />
-<img src="https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=langchain&logoColor=39ff14" />
-<img src="https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=39ff14" />
-<img src="https://img.shields.io/badge/Gemini_API-0d1117?style=for-the-badge&logo=googlegemini&logoColor=39ff14" />
+<img src="https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&amp;logo=pytorch&amp;logoColor=39ff14" />
+<img src="https://img.shields.io/badge/Hugging_Face-0d1117?style=for-the-badge&amp;logo=huggingface&amp;logoColor=39ff14" />
+<img src="https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&amp;logo=langchain&amp;logoColor=39ff14" />
+<img src="https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&amp;logo=opencv&amp;logoColor=39ff14" />
+<img src="https://img.shields.io/badge/Gemini_API-0d1117?style=for-the-badge&amp;logo=googlegemini&amp;logoColor=39ff14" />
 
 **Tools & Infra**
 
-<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=39ff14" />
-<img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=39ff14" />
-<img src="https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=39ff14" />
-<img src="https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=39ff14" />
-<img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=39ff14" />
+<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&amp;logo=git&amp;logoColor=39ff14" />
+<img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&amp;logo=docker&amp;logoColor=39ff14" />
+<img src="https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&amp;logo=postman&amp;logoColor=39ff14" />
+<img src="https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&amp;logo=supabase&amp;logoColor=39ff14" />
+<img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&amp;logo=postgresql&amp;logoColor=39ff14" />
 
 </div>
 
@@ -85,96 +85,116 @@ status: Open to internship opportunities
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
-### 🌾 Smart Farm Management System
-**`Odoo · Python · XML · PostgreSQL`**
-
-Integrated Google Maps to visualize farm boundaries & assets, resolving data fragmentation for real-time operational oversight.
-
-`Company: Anabas Joint Stock Company`
-
-</td>
-<td width="50%" valign="top">
-
-### 📱 Sales Management Mobile App
-**`React Native · TypeScript · SQLite · Gemini AI`**
-
-Full-featured POS & inventory app. Gemini AI for product classification, Vietnamese voice input, biometric auth, PDF invoicing.
-
-[`→ View Repo`](https://github.com/Tiens0710/quanlybanhang)
+**🌾 Smart Farm (Odoo)**
+<br/>
+`Odoo · Python · PostgreSQL`
+<br/>
+Google Maps farm visualization
+<br/>
+<sub>Anabas Joint Stock Co.</sub>
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
-### 🧊 Text-to-3D Generation
-**`PyTorch · Threestudio · NeRF · Stable Diffusion`**
-
-Researched & implemented text-to-3D generation workflows with diffusion-based optimization (SDS/SJC) for high-quality 3D assets.
-
-[`→ View Repo`](https://github.com/Tiens0710/ChatbotHoTroTuyenSinh)
+**📱 Sales Mobile App**
+<br/>
+`React Native · Gemini AI`
+<br/>
+POS + inventory + AI vision
+<br/>
+[`View Repo →`](https://github.com/Tiens0710/quanlybanhang)
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
-### 🎓 Student AI Assistant (RAG)
-**`LangChain · Gemma LLM · Gemini API · ChromaDB`**
-
-Built a Retrieval-Augmented Generation pipeline for high-accuracy student info lookup, minimizing AI hallucinations.
-
-[`→ View Project`](https://drive.google.com/drive/folders/19BxNalBgbsg75K1ViNzsFIQPSFljjTF)
+**🧊 Text-to-3D Gen**
+<br/>
+`PyTorch · Threestudio · NeRF`
+<br/>
+SDS/SJC diffusion optimization
+<br/>
+[`View Repo →`](https://github.com/Tiens0710/ChatbotHoTroTuyenSinh)
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
-### 🗣️ Vietnamese NLP Chatbot
-**`PhoBERT · Transformers · PyTorch · Streamlit`**
-
-Custom Vietnamese NLP engine for intent & entity recognition, powering automated admissions counseling.
-
-[`→ View Repo`](https://github.com/Tiens0710/ChatbotHoTroTuyenSinh)
+**🎓 Student AI Assistant**
+<br/>
+`LangChain · RAG · ChromaDB`
+<br/>
+High-accuracy info retrieval
+<br/>
+[`View Project →`](https://drive.google.com/drive/folders/19BxNalBgbsg75K1ViNzsFIQPSFljjTF)
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
-### 🍜 FoGether — Social Food Sharing
-**`Next.js · Supabase · Tailwind · Google Maps API`**
+**🗣️ Vietnamese NLP Bot**
+<br/>
+`PhoBERT · Transformers`
+<br/>
+Intent & entity recognition
+<br/>
+[`View Repo →`](https://github.com/Tiens0710/ChatbotHoTroTuyenSinh)
 
-Full-stack social platform: Google OAuth, geolocation tagging, TikTok-style vertical feed with real-time interactions.
+</td>
+<td width="33%" align="center">
 
-[`→ Live Demo`](https://homnayangidayta.vercel.app/)
+**🍜 FoGether**
+<br/>
+`Next.js · Supabase · Maps API`
+<br/>
+Social food-sharing platform
+<br/>
+[`Live Demo →`](https://homnayangidayta.vercel.app/)
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
-### 🎮 Pokemon Motion Controller
-**`MediaPipe · OpenCV · Unity (C#) · UDP Socket`**
-
-Real-time motion control bridging Python CV with Unity — pose & hand gesture recognition via low-latency UDP transmission.
-
-[`→ View Repo`](https://github.com/Tiens0710/unity-pokemon-motiondetection)
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AI Agents · LLMs · Computer Vision
-**`YOLO · Chatbots · RAG · AI Agents`**
-
-Ongoing research into AI agent architectures, computer vision (YOLO), and LLM-powered applications.
-
-[`→ GitHub Profile`](https://github.com/Tiens0710)
+**🎮 Pokemon Motion Ctrl**
+<br/>
+`MediaPipe · Unity · UDP`
+<br/>
+Real-time gesture control
+<br/>
+[`View Repo →`](https://github.com/Tiens0710/unity-pokemon-motiondetection)
 
 </td>
+<td width="33%" align="center">
+
+**🤖 AI Agents & CV**
+<br/>
+`YOLO · LLMs · RAG`
+<br/>
+Ongoing AI agent research
+<br/>
+[`Profile →`](https://github.com/Tiens0710)
+
+</td>
+<td width="33%"></td>
 </tr>
 </table>
 
 <br/>
+
+### `> github pinned repos`
+
+<div align="center">
+
+<a href="https://github.com/Tiens0710/quanlybanhang">
+<img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Tiens0710&amp;repo=quanlybanhang&amp;theme=dark&amp;bg_color=0d1117&amp;title_color=39ff14&amp;text_color=c9d1d9&amp;border_color=39ff14" />
+</a>
+<a href="https://github.com/Tiens0710/unity-pokemon-motiondetection">
+<img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Tiens0710&amp;repo=unity-pokemon-motiondetection&amp;theme=dark&amp;bg_color=0d1117&amp;title_color=39ff14&amp;text_color=c9d1d9&amp;border_color=39ff14" />
+</a>
+
+</div>
 
 ## `> cat certificates.log`
 
@@ -192,16 +212,16 @@ Ongoing research into AI agent architectures, computer vision (YOLO), and LLM-po
 ## `> ./fetch_github_stats.sh`
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Tiens0710&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=c9d1d9&border_color=39ff14" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Tiens0710&hide_border=true&background=0d1117&ring=39ff14&fire=39ff14&currStreakLabel=39ff14&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Tiens0710&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=39ff14&amp;icon_color=39ff14&amp;text_color=c9d1d9&amp;border_color=39ff14" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Tiens0710&amp;hide_border=true&amp;background=0d1117&amp;ring=39ff14&amp;fire=39ff14&amp;currStreakLabel=39ff14&amp;sideLabels=c9d1d9&amp;currStreakNum=c9d1d9&amp;sideNums=c9d1d9&amp;dates=8b949e" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiens0710&layout=compact&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9&border_color=39ff14" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiens0710&amp;layout=compact&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=39ff14&amp;text_color=c9d1d9&amp;border_color=39ff14" />
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tiens0710&bg_color=0d1117&color=39ff14&line=39ff14&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tiens0710&amp;bg_color=0d1117&amp;color=39ff14&amp;line=39ff14&amp;point=ffffff&amp;area=true&amp;hide_border=true" width="100%"/>
 </div>
 
 <br/>
@@ -212,4 +232,4 @@ Thanks for stopping by. Let's build something.
 root@tien:~$ █
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00ff41,100:0d1117&amp;height=100&amp;section=footer" width="100%"/>
