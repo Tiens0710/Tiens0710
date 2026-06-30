@@ -1,28 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=28&amp;duration=2500&amp;pause=900&amp;color=39FF14&amp;background=0D1117&amp;center=true&amp;vCenter=true&amp;width=820&amp;height=60&amp;lines=Nguyen+Nhat+Tien" alt="Name" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=22&amp;duration=2200&amp;pause=600&amp;color=39FF14&amp;background=0D1117&amp;center=true&amp;vCenter=true&amp;width=820&amp;height=40&amp;lines=Nguyen+Nhat+Tien" alt="Name" />
 
 </div>
 
-```bash
-┌─ tien@portfolio: ~ ──────────────────────────────────────────────────────┐
-│                                                                          │
-│  $ whoami                                                                │
-│  > Nguyen Nhat Tien — Computer Science Student                          │
-│                                                                          │
-│  $ cat role.txt                                                         │
-│  > Intern | Odoo Developer | AI/ML Enthusiast                          │
-│                                                                          │
-│  $ cat education.txt                                                    │
-│  > Can Tho University of Technology (2022 - 2027)                      │
-│  > GPA: 3.51/4.0 — Scholarship every semester                          │
-│                                                                          │
-│  $ cat status.txt                                                       │
-│  > [ONLINE] Open to internship opportunities in AI / Software Eng       │
-│                                                                          │
-│  $ █                                                                    │
-└──────────────────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=16&amp;duration=1800&amp;pause=400&amp;color=39FF14&amp;background=0D1117&amp;center=true&amp;multiline=true&amp;repeat=true&amp;width=820&amp;height=220&amp;lines=tien%40portfolio%3A~%24+whoami;Nguyen+Nhat+Tien+-+Computer+Science+Student;tien%40portfolio%3A~%24+cat+role.txt;Intern+%7C+Odoo+Developer+%7C+AI%2FML+Enthusiast;tien%40portfolio%3A~%24+cat+education.txt;Can+Tho+University+of+Technology+%282022-2027%29;GPA%3A+3.51%2F4.0+-+Scholarship+every+semester;tien%40portfolio%3A~%24+cat+status.txt;%5BONLINE%5D+Open+to+internship+opportunities" alt="Terminal" />
+
+</div>
 
 <div align="center">
 
