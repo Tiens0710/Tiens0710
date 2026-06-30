@@ -1,29 +1,37 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,100:00ff41&amp;height=200&amp;section=header&amp;text=Nguyen%20Nhat%20Tien&amp;fontSize=46&amp;fontColor=00ff41&amp;fontAlignY=38&amp;animation=fadeIn&amp;desc=Computer%20Science%20Student%20%7C%20AI%20%26%20ODOO%20Developer&amp;descAlignY=58&amp;descSize=18&amp;descColor=39ff14" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=800&amp;color=39FF14&amp;background=0D1117&amp;center=true&amp;vCenter=true&amp;width=750&amp;height=50&amp;lines=root%40tien%3A~%24+whoami;Nguyen+Nhat+Tien+%7C+Computer+Science+Student;root%40tien%3A~%24+cat+skills.json;Odoo+%7C+AI%2FML+%7C+Blockchain+%7C+Full-Stack;root%40tien%3A~%24+./run_career_objective.sh;Building+scalable+AI-powered+software...;Status%3A+Online+%E2%9C%93" alt="Typing SVG" />
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-tiens0710.id.vn-0d1117?style=for-the-badge&logo=googlechrome&logoColor=39ff14&labelColor=000000)](https://tiens0710.id.vn/)
-[![Email](https://img.shields.io/badge/EMAIL-tengiadd7%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=39ff14&labelColor=000000)](mailto:tengiadd7@gmail.com)
-[![Facebook](https://img.shields.io/badge/FACEBOOK-tiens0710-0d1117?style=for-the-badge&logo=facebook&logoColor=39ff14&labelColor=000000)](https://www.facebook.com/tiens0710)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=28&amp;duration=2500&amp;pause=900&amp;color=39FF14&amp;background=0D1117&amp;center=true&amp;vCenter=true&amp;width=820&amp;height=60&amp;lines=Nguyen+Nhat+Tien" alt="Name" />
 
 </div>
 
-<br/>
-
-```ansi
-┌──────────────────────────────────────────────────────────────────────┐
-│ [SYSTEM LOG] Initializing profile...                                 │
-│ [OK] Loading user: Nguyen Nhat Tien (Intern)                         │
-│ [OK] Location: Can Tho, Vietnam                                      │
-│ [OK] University: Can Tho University of Technology (2022 - 2027)      │
-│ [OK] GPA: 3.51/4.0 — Scholarship every semester                      │
-│ [READY] Awaiting internship opportunities in AI / Software Eng...    │
-└──────────────────────────────────────────────────────────────────────┘
+```bash
+┌─ tien@portfolio: ~ ──────────────────────────────────────────────────────┐
+│                                                                          │
+│  $ whoami                                                                │
+│  > Nguyen Nhat Tien — Computer Science Student                          │
+│                                                                          │
+│  $ cat role.txt                                                         │
+│  > Intern | Odoo Developer | AI/ML Enthusiast                          │
+│                                                                          │
+│  $ cat education.txt                                                    │
+│  > Can Tho University of Technology (2022 - 2027)                      │
+│  > GPA: 3.51/4.0 — Scholarship every semester                          │
+│                                                                          │
+│  $ cat status.txt                                                       │
+│  > [ONLINE] Open to internship opportunities in AI / Software Eng       │
+│                                                                          │
+│  $ █                                                                    │
+└──────────────────────────────────────────────────────────────────────────┘
 ```
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-tiens0710.id.vn-0d1117?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=39ff14&amp;labelColor=000000)](https://tiens0710.id.vn/)
+[![Email](https://img.shields.io/badge/EMAIL-tengiadd7%40gmail.com-0d1117?style=for-the-badge&amp;logo=gmail&amp;logoColor=39ff14&amp;labelColor=000000)](mailto:tengiadd7@gmail.com)
+[![Facebook](https://img.shields.io/badge/FACEBOOK-tiens0710-0d1117?style=for-the-badge&amp;logo=facebook&amp;logoColor=39ff14&amp;labelColor=000000)](https://www.facebook.com/tiens0710)
+[![GitHub](https://img.shields.io/badge/GITHUB-Tiens0710-0d1117?style=for-the-badge&amp;logo=github&amp;logoColor=39ff14&amp;labelColor=000000)](https://github.com/Tiens0710)
+
+</div>
 
 <br/>
 
