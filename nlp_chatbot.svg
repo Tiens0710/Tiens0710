@@ -1,0 +1,19 @@
+<svg width="780" height="110" viewBox="0 0 780 110" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ba68c8"/>
+      <stop offset="100%" stop-color="#4a148c"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="780" height="110" rx="14" fill="#0d1117"/>
+  <rect width="780" height="110" rx="14" fill="url(#bg)" opacity="0.12"/>
+  <rect x="1" y="1" width="778" height="108" rx="13" fill="none" stroke="url(#bg)" stroke-width="2" opacity="0.6"/>
+  <text x="34" y="48" font-size="34" filter="url(#glow)">🗣️</text>
+  <text x="80" y="42" font-family="Fira Code, monospace" font-weight="800" font-size="20" fill="#e6f1ff">Vietnamese NLP Chatbot</text>
+  <text x="80" y="64" font-family="Fira Code, monospace" font-size="13" fill="#7ee787">PhoBERT · Transformers · PyTorch · Streamlit</text>
+  <text x="80" y="86" font-family="Fira Code, monospace" font-size="13" fill="#9da7b3">Intent & entity recognition for admissions counseling</text>
+</svg>
