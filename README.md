@@ -82,103 +82,25 @@ status: Open to internship opportunities
 
 ## `> ls -la projects/`
 
-<table>
-<tr>
-<td width="33%" align="center">
+<div align="center">
 
-**🌾 Smart Farm (Odoo)**
-<br/>
-`Odoo · Python · PostgreSQL`
-<br/>
-Google Maps farm visualization
-<br/>
-<sub>Anabas Joint Stock Co.</sub>
+<a href="https://github.com/Tiens0710"><img src="assets/projects/smart_farm.svg" width="100%"/></a>
+<br/><br/>
+<a href="https://github.com/Tiens0710/quanlybanhang"><img src="assets/projects/sales_app.svg" width="100%"/></a>
+<br/><br/>
+<a href="https://github.com/Tiens0710/ChatbotHoTroTuyenSinh"><img src="assets/projects/text_to_3d.svg" width="100%"/></a>
+<br/><br/>
+<a href="https://drive.google.com/drive/folders/19BxNalBgbsg75K1ViNzsFIQPSFljjTF"><img src="assets/projects/rag_assistant.svg" width="100%"/></a>
+<br/><br/>
+<a href="https://github.com/Tiens0710/ChatbotHoTroTuyenSinh"><img src="assets/projects/nlp_chatbot.svg" width="100%"/></a>
+<br/><br/>
+<a href="https://homnayangidayta.vercel.app/"><img src="assets/projects/fogether.svg" width="100%"/></a>
+<br/><br/>
+<a href="https://github.com/Tiens0710/unity-pokemon-motiondetection"><img src="assets/projects/pokemon_motion.svg" width="100%"/></a>
+<br/><br/>
+<a href="https://github.com/Tiens0710"><img src="assets/projects/ai_agents.svg" width="100%"/></a>
 
-</td>
-<td width="33%" align="center">
-
-**📱 Sales Mobile App**
-<br/>
-`React Native · Gemini AI`
-<br/>
-POS + inventory + AI vision
-<br/>
-[`View Repo →`](https://github.com/Tiens0710/quanlybanhang)
-
-</td>
-<td width="33%" align="center">
-
-**🧊 Text-to-3D Gen**
-<br/>
-`PyTorch · Threestudio · NeRF`
-<br/>
-SDS/SJC diffusion optimization
-<br/>
-[`View Repo →`](https://github.com/Tiens0710/ChatbotHoTroTuyenSinh)
-
-</td>
-</tr>
-<tr>
-<td width="33%" align="center">
-
-**🎓 Student AI Assistant**
-<br/>
-`LangChain · RAG · ChromaDB`
-<br/>
-High-accuracy info retrieval
-<br/>
-[`View Project →`](https://drive.google.com/drive/folders/19BxNalBgbsg75K1ViNzsFIQPSFljjTF)
-
-</td>
-<td width="33%" align="center">
-
-**🗣️ Vietnamese NLP Bot**
-<br/>
-`PhoBERT · Transformers`
-<br/>
-Intent & entity recognition
-<br/>
-[`View Repo →`](https://github.com/Tiens0710/ChatbotHoTroTuyenSinh)
-
-</td>
-<td width="33%" align="center">
-
-**🍜 FoGether**
-<br/>
-`Next.js · Supabase · Maps API`
-<br/>
-Social food-sharing platform
-<br/>
-[`Live Demo →`](https://homnayangidayta.vercel.app/)
-
-</td>
-</tr>
-<tr>
-<td width="33%" align="center">
-
-**🎮 Pokemon Motion Ctrl**
-<br/>
-`MediaPipe · Unity · UDP`
-<br/>
-Real-time gesture control
-<br/>
-[`View Repo →`](https://github.com/Tiens0710/unity-pokemon-motiondetection)
-
-</td>
-<td width="33%" align="center">
-
-**🤖 AI Agents & CV**
-<br/>
-`YOLO · LLMs · RAG`
-<br/>
-Ongoing AI agent research
-<br/>
-[`Profile →`](https://github.com/Tiens0710)
-
-</td>
-<td width="33%"></td>
-</tr>
-</table>
+</div>
 
 <br/>
 
