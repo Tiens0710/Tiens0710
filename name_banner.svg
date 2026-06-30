@@ -1,10 +1,12 @@
 <svg width="820" height="160" viewBox="0 0 820 160" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="2" result="blur1"/>
-      <feGaussianBlur stdDeviation="6" result="blur2"/>
-      <feGaussianBlur stdDeviation="14" result="blur3"/>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="3" result="blur1"/>
+      <feGaussianBlur stdDeviation="9" result="blur2"/>
+      <feGaussianBlur stdDeviation="20" result="blur3"/>
+      <feGaussianBlur stdDeviation="36" result="blur4"/>
       <feMerge>
+        <feMergeNode in="blur4"/>
         <feMergeNode in="blur3"/>
         <feMergeNode in="blur2"/>
         <feMergeNode in="blur1"/>
@@ -12,8 +14,8 @@
       </feMerge>
     </filter>
     <filter id="glowFrame" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="2" result="b1"/>
-      <feGaussianBlur stdDeviation="5" result="b2"/>
+      <feGaussianBlur stdDeviation="3" result="b1"/>
+      <feGaussianBlur stdDeviation="9" result="b2"/>
       <feMerge>
         <feMergeNode in="b2"/>
         <feMergeNode in="b1"/>
@@ -21,21 +23,21 @@
       </feMerge>
     </filter>
     <filter id="glowDot" x="-150%" y="-150%" width="400%" height="400%">
-      <feGaussianBlur stdDeviation="2.5" result="b1"/>
+      <feGaussianBlur stdDeviation="3.5" result="b1"/>
       <feMerge>
         <feMergeNode in="b1"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
     <linearGradient id="gradPink" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00ff41"/>
-      <stop offset="50%" stop-color="#39ff14"/>
-      <stop offset="100%" stop-color="#0aff9d"/>
+      <stop offset="0%" stop-color="#00fff0"/>
+      <stop offset="50%" stop-color="#1affd9"/>
+      <stop offset="100%" stop-color="#00e0c0"/>
     </linearGradient>
     <linearGradient id="gradCyan" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#aaff00"/>
-      <stop offset="50%" stop-color="#5cff1f"/>
-      <stop offset="100%" stop-color="#00ffb3"/>
+      <stop offset="0%" stop-color="#7dfff5"/>
+      <stop offset="50%" stop-color="#2bffe0"/>
+      <stop offset="100%" stop-color="#00ffc8"/>
     </linearGradient>
     <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
       <rect width="4" height="2" fill="#000000" opacity="0.06"/>
@@ -91,13 +93,13 @@
       }
       .neon-frame {
         fill: none;
-        stroke: #39ff14;
+        stroke: #1affd9;
         stroke-width: 1.8;
         filter: url(#glowFrame);
         animation: framePulse 3s infinite ease-in-out;
       }
       .led {
-        fill: #baff8a;
+        fill: #c0fff5;
         filter: url(#glowDot);
         animation: ledTwinkle 3s infinite ease-in-out;
       }
@@ -173,5 +175,6 @@
   <text x="412" y="92" text-anchor="middle" class="layer-back">Nguyen Nhat Tien</text>
   <text x="410" y="92" text-anchor="middle" class="layer-front">Nguyen Nhat Tien</text>
 
+  <rect width="820" height="160" fill="#00fff0" opacity="0.04"/>
   <rect width="820" height="160" fill="url(#scan)"/>
 </svg>
