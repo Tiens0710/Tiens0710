@@ -29,7 +29,7 @@
 ## `> career_objective.txt`
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Tiens0710/Tiens0710/main/career_objective.svg" width="820" alt="Career Objective"/>
+<img src="https://raw.githubusercontent.com/Tiens0710/Tiens0710/main/career_objective.svg?v=2" width="820" alt="Career Objective"/>
 </div>
 
 <br/>
