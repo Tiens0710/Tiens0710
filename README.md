@@ -11,7 +11,15 @@
 
 <div>
 
-<img src="https://raw.githubusercontent.com/Tiens0710/Tiens0710/main/terminal.svg" alt="Terminal" width="820"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1200&pause=1000&color=39FF14&background=0D1117&width=820&height=28&lines=tien%40portfolio%3A~%24%20whoami" width="820" height="28" alt=""/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2200&pause=1000&color=8B949E&background=0D1117&width=820&height=28&lines=Nguyen%20Nhat%20Tien%20--%20Computer%20Science%20Student" width="820" height="28" alt=""/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1500&pause=1000&color=39FF14&background=0D1117&width=820&height=28&lines=tien%40portfolio%3A~%24%20cat%20role.txt" width="820" height="28" alt=""/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2100&pause=1000&color=8B949E&background=0D1117&width=820&height=28&lines=Intern%20%7C%20Odoo%20Developer%20%7C%20AI/ML%20Enthusiast" width="820" height="28" alt=""/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1750&pause=1000&color=39FF14&background=0D1117&width=820&height=28&lines=tien%40portfolio%3A~%24%20cat%20education.txt" width="820" height="28" alt=""/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2200&pause=1000&color=8B949E&background=0D1117&width=820&height=28&lines=Can%20Tho%20University%20of%20Technology%20%282022-2027%29" width="820" height="28" alt=""/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2150&pause=1000&color=8B949E&background=0D1117&width=820&height=28&lines=GPA%3A%203.51/4.0%20--%20Scholarship%20every%20semester" width="820" height="28" alt=""/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1600&pause=1000&color=39FF14&background=0D1117&width=820&height=28&lines=tien%40portfolio%3A~%24%20cat%20status.txt" width="820" height="28" alt=""/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2050&pause=1000&color=8B949E&background=0D1117&width=820&height=28&lines=%5BONLINE%5D%20Open%20to%20internship%20opportunities" width="820" height="28" alt=""/>
 
 </div>
 
