@@ -1,0 +1,48 @@
+<svg width="820" height="180" viewBox="0 0 820 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1f12" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#0a1628" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="border" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#39ff14"/>
+      <stop offset="50%" stop-color="#00fff0"/>
+      <stop offset="100%" stop-color="#39ff14"/>
+    </linearGradient>
+    <linearGradient id="tagBg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#39ff14" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#00fff0" stop-opacity="0.08"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="820" height="180" rx="14" fill="url(#bg)"/>
+  <rect x="1" y="1" width="818" height="178" rx="13" fill="none" stroke="url(#border)" stroke-width="1.5"/>
+
+  <!-- Left accent bar -->
+  <rect x="0" y="30" width="3" height="120" rx="2" fill="url(#border)" filter="url(#glow)"/>
+
+  <!-- Icon + label -->
+  <rect x="24" y="20" width="130" height="24" rx="6" fill="url(#tagBg)"/>
+  <rect x="24" y="20" width="130" height="24" rx="6" fill="none" stroke="#39ff14" stroke-width="0.8" opacity="0.6"/>
+  <text x="34" y="36" font-family="Fira Code, monospace" font-size="12" fill="#39ff14" font-weight="700">career_objective</text>
+
+  <!-- Divider -->
+  <line x1="24" y1="54" x2="796" y2="54" stroke="#39ff14" stroke-width="0.4" opacity="0.2"/>
+
+  <!-- Body text -->
+  <text x="24" y="78"  font-family="Fira Code, monospace" font-size="13.5" fill="#c9d1d9">Computer Science student with 2+ years of hands-on</text>
+  <text x="24" y="98"  font-family="Fira Code, monospace" font-size="13.5" fill="#c9d1d9">experience in Odoo, AI/ML systems, and blockchain.</text>
+  <text x="24" y="118" font-family="Fira Code, monospace" font-size="13.5" fill="#c9d1d9">Seeking internship to build scalable software solutions</text>
+  <text x="24" y="138" font-family="Fira Code, monospace" font-size="13.5" fill="#c9d1d9">and integrate AI into real-world applications.</text>
+
+  <!-- Status badge -->
+  <rect x="24" y="150" width="220" height="22" rx="6" fill="#39ff14" opacity="0.12"/>
+  <rect x="24" y="150" width="220" height="22" rx="6" fill="none" stroke="#39ff14" stroke-width="0.8"/>
+  <circle cx="38" cy="161" r="4" fill="#39ff14" filter="url(#glow)"/>
+  <text x="50" y="165" font-family="Fira Code, monospace" font-size="12" fill="#39ff14" font-weight="700">OPEN TO INTERNSHIP OPPORTUNITIES</text>
+</svg>
