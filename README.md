@@ -11,7 +11,7 @@
 
 <div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=16&amp;duration=900&amp;pause=200&amp;color=39FF14&amp;background=0D1117&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=820&amp;height=220&amp;lines=tien%40portfolio%3A~%24+whoami;Nguyen+Nhat+Tien+-+Computer+Science+Student;tien%40portfolio%3A~%24+cat+role.txt;Intern+%7C+Odoo+Developer+%7C+AI%2FML+Enthusiast;tien%40portfolio%3A~%24+cat+education.txt;Can+Tho+University+of+Technology+%282022-2027%29;GPA%3A+3.51%2F4.0+-+Scholarship+every+semester;tien%40portfolio%3A~%24+cat+status.txt;%5BONLINE%5D+Open+to+internship+opportunities" alt="Terminal" />
+<img src="https://raw.githubusercontent.com/Tiens0710/Tiens0710/main/terminal.svg" alt="Terminal" width="820"/>
 
 </div>
 
@@ -102,20 +102,6 @@ status: Open to internship opportunities
 
 </div>
 
-<br/>
-
-### `> github pinned repos`
-
-<div align="center">
-
-<a href="https://github.com/Tiens0710/quanlybanhang">
-<img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Tiens0710&amp;repo=quanlybanhang&amp;theme=dark&amp;bg_color=0d1117&amp;title_color=39ff14&amp;text_color=c9d1d9&amp;border_color=39ff14" />
-</a>
-<a href="https://github.com/Tiens0710/unity-pokemon-motiondetection">
-<img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Tiens0710&amp;repo=unity-pokemon-motiondetection&amp;theme=dark&amp;bg_color=0d1117&amp;title_color=39ff14&amp;text_color=c9d1d9&amp;border_color=39ff14" />
-</a>
-
-</div>
 
 ## `> cat certificates.log`
 
