@@ -82,80 +82,25 @@ status: Open to internship opportunities
 
 ## `> ls -la projects/`
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-**🌾 Smart Farm Management System**
-`Odoo · Python · XML · PostgreSQL`
-Integrated Google Maps to visualize farm boundaries & assets for real-time operational oversight.
-<sub>Anabas Joint Stock Company</sub>
+<a href="https://github.com/Tiens0710"><img src="https://raw.githubusercontent.com/Tiens0710/Tiens0710/main/smart_farm.svg" width="100%"/></a>
+<br/><br/>
+<a href="https://github.com/Tiens0710/quanlybanhang"><img src="https://raw.githubusercontent.com/Tiens0710/Tiens0710/main/sales_app.svg" width="100%"/></a>
+<br/><br/>
+<a href="https://github.com/Tiens0710/ChatbotHoTroTuyenSinh"><img src="https://raw.githubusercontent.com/Tiens0710/Tiens0710/main/text_to_3d.svg" width="100%"/></a>
+<br/><br/>
+<a href="https://drive.google.com/drive/folders/19BxNalBgbsg75K1ViNzsFIQPSFljjTF"><img src="https://raw.githubusercontent.com/Tiens0710/Tiens0710/main/rag_assistant.svg" width="100%"/></a>
+<br/><br/>
+<a href="https://github.com/Tiens0710/ChatbotHoTroTuyenSinh"><img src="https://raw.githubusercontent.com/Tiens0710/Tiens0710/main/nlp_chatbot.svg" width="100%"/></a>
+<br/><br/>
+<a href="https://homnayangidayta.vercel.app/"><img src="https://raw.githubusercontent.com/Tiens0710/Tiens0710/main/fogether.svg" width="100%"/></a>
+<br/><br/>
+<a href="https://github.com/Tiens0710/unity-pokemon-motiondetection"><img src="https://raw.githubusercontent.com/Tiens0710/Tiens0710/main/pokemon_motion.svg" width="100%"/></a>
+<br/><br/>
+<a href="https://github.com/Tiens0710"><img src="https://raw.githubusercontent.com/Tiens0710/Tiens0710/main/ai_agents.svg" width="100%"/></a>
 
-</td>
-<td width="50%">
-
-**📱 Sales Management Mobile App**
-`React Native · TypeScript · Gemini AI`
-Full POS & inventory app with AI product classification, voice input, biometric auth, PDF invoicing.
-[`→ View Repo`](https://github.com/Tiens0710/quanlybanhang)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🧊 Text-to-3D Generation**
-`PyTorch · Threestudio · NeRF · Stable Diffusion`
-Researched & implemented text-to-3D workflows using diffusion-based optimization (SDS/SJC).
-[`→ View Repo`](https://github.com/Tiens0710/ChatbotHoTroTuyenSinh)
-
-</td>
-<td width="50%">
-
-**🎓 Student AI Assistant (RAG)**
-`LangChain · Gemma LLM · Gemini API · ChromaDB`
-Built a Retrieval-Augmented Generation pipeline for high-accuracy student info lookup.
-[`→ View Project`](https://drive.google.com/drive/folders/19BxNalBgbsg75K1ViNzsFIQPSFljjTF)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🗣️ Vietnamese NLP Chatbot**
-`PhoBERT · Transformers · PyTorch · Streamlit`
-Custom Vietnamese NLP engine for intent & entity recognition, powering admissions counseling.
-[`→ View Repo`](https://github.com/Tiens0710/ChatbotHoTroTuyenSinh)
-
-</td>
-<td width="50%">
-
-**🍜 FoGether — Social Food Sharing**
-`Next.js · Supabase · Tailwind · Google Maps API`
-Full-stack social platform with OAuth, geolocation tagging, TikTok-style vertical feed.
-[`→ Live Demo`](https://homnayangidayta.vercel.app/)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🎮 Pokemon Motion Controller**
-`MediaPipe · OpenCV · Unity (C#) · UDP Socket`
-Real-time motion control bridging Python CV with Unity for gesture-based interaction.
-[`→ View Repo`](https://github.com/Tiens0710/unity-pokemon-motiondetection)
-
-</td>
-<td width="50%">
-
-**🤖 AI Agents, LLMs & Computer Vision**
-`YOLO · Chatbots · RAG · AI Agents`
-Ongoing research into AI agent architectures and computer vision applications.
-[`→ GitHub Profile`](https://github.com/Tiens0710)
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
