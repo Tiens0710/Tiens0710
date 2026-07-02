@@ -1,48 +1,56 @@
-<svg width="820" height="180" viewBox="0 0 820 180" xmlns="http://www.w3.org/2000/svg">
+<svg width="820" height="200" viewBox="0 0 820 200" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0d1f12" stop-opacity="1"/>
-      <stop offset="100%" stop-color="#0a1628" stop-opacity="1"/>
-    </linearGradient>
-    <linearGradient id="border" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#39ff14"/>
-      <stop offset="50%" stop-color="#00fff0"/>
-      <stop offset="100%" stop-color="#39ff14"/>
-    </linearGradient>
-    <linearGradient id="tagBg" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#39ff14" stop-opacity="0.15"/>
-      <stop offset="100%" stop-color="#00fff0" stop-opacity="0.08"/>
-    </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="b"/>
+    <filter id="glowFrame" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b1"/>
+      <feGaussianBlur stdDeviation="8" result="b2"/>
+      <feMerge><feMergeNode in="b2"/><feMergeNode in="b1"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glowText" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2" result="b"/>
       <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
+    <style>
+      @keyframes framePulse {
+        0%, 100% { opacity: 0.8; }
+        50% { opacity: 1; }
+      }
+      @keyframes frameBack {
+        0%, 90%, 100% { transform: translate(0,0); }
+        91% { transform: translate(-2px, 1px); }
+        93% { transform: translate(2px, -1px); }
+        95% { transform: translate(0,0); }
+      }
+      @keyframes dotBlink {
+        0%, 49% { opacity: 1; }
+        50%, 100% { opacity: 0.3; }
+      }
+      .frame-back { fill: none; stroke: #00b8a0; stroke-width: 1.8; filter: url(#glowFrame); opacity: 0.6; animation: frameBack 6s infinite; }
+      .frame-front { fill: none; stroke: #1affd9; stroke-width: 1.8; filter: url(#glowFrame); animation: framePulse 3s infinite ease-in-out; }
+      .dot { animation: dotBlink 1.2s step-end infinite; }
+    </style>
   </defs>
 
-  <!-- Background -->
-  <rect width="820" height="180" rx="14" fill="url(#bg)"/>
-  <rect x="1" y="1" width="818" height="178" rx="13" fill="none" stroke="url(#border)" stroke-width="1.5"/>
+  <rect width="820" height="200" rx="14" fill="#05010a"/>
+  <rect x="10" y="10" width="800" height="180" rx="14" class="frame-back"/>
+  <rect x="10" y="10" width="800" height="180" rx="14" class="frame-front"/>
 
-  <!-- Left accent bar -->
-  <rect x="0" y="30" width="3" height="120" rx="2" fill="url(#border)" filter="url(#glow)"/>
-
-  <!-- Icon + label -->
-  <rect x="24" y="20" width="130" height="24" rx="6" fill="url(#tagBg)"/>
-  <rect x="24" y="20" width="130" height="24" rx="6" fill="none" stroke="#39ff14" stroke-width="0.8" opacity="0.6"/>
-  <text x="34" y="36" font-family="Fira Code, monospace" font-size="12" fill="#39ff14" font-weight="700">career_objective</text>
+  <!-- Tag -->
+  <rect x="30" y="24" width="148" height="24" rx="6" fill="#1affd9" opacity="0.1"/>
+  <rect x="30" y="24" width="148" height="24" rx="6" fill="none" stroke="#1affd9" stroke-width="0.8" opacity="0.7"/>
+  <text x="40" y="40" font-family="Fira Code, monospace" font-size="12" fill="#1affd9" font-weight="700" filter="url(#glowText)">career_objective</text>
 
   <!-- Divider -->
-  <line x1="24" y1="54" x2="796" y2="54" stroke="#39ff14" stroke-width="0.4" opacity="0.2"/>
+  <line x1="30" y1="58" x2="790" y2="58" stroke="#1affd9" stroke-width="0.4" opacity="0.25"/>
 
-  <!-- Body text -->
-  <text x="24" y="78"  font-family="Fira Code, monospace" font-size="13.5" fill="#c9d1d9">Computer Science student with 2+ years of hands-on</text>
-  <text x="24" y="98"  font-family="Fira Code, monospace" font-size="13.5" fill="#c9d1d9">experience in Odoo, AI/ML systems, and blockchain.</text>
-  <text x="24" y="118" font-family="Fira Code, monospace" font-size="13.5" fill="#c9d1d9">Seeking internship to build scalable software solutions</text>
-  <text x="24" y="138" font-family="Fira Code, monospace" font-size="13.5" fill="#c9d1d9">and integrate AI into real-world applications.</text>
+  <!-- Body text — 13px, cách đều, đủ không gian -->
+  <text x="30" y="80"  font-family="Fira Code, monospace" font-size="13" fill="#c9d1d9">Computer Science student with 2+ years of hands-on experience</text>
+  <text x="30" y="101" font-family="Fira Code, monospace" font-size="13" fill="#c9d1d9">in Odoo development, AI/ML systems, and blockchain technologies.</text>
+  <text x="30" y="122" font-family="Fira Code, monospace" font-size="13" fill="#c9d1d9">Seeking internship to apply expertise in building scalable software</text>
+  <text x="30" y="143" font-family="Fira Code, monospace" font-size="13" fill="#c9d1d9">solutions and integrate AI into real-world applications.</text>
 
   <!-- Status badge -->
-  <rect x="24" y="150" width="220" height="22" rx="6" fill="#39ff14" opacity="0.12"/>
-  <rect x="24" y="150" width="220" height="22" rx="6" fill="none" stroke="#39ff14" stroke-width="0.8"/>
-  <circle cx="38" cy="161" r="4" fill="#39ff14" filter="url(#glow)"/>
-  <text x="50" y="165" font-family="Fira Code, monospace" font-size="12" fill="#39ff14" font-weight="700">OPEN TO INTERNSHIP OPPORTUNITIES</text>
+  <rect x="30" y="158" width="238" height="22" rx="6" fill="#1affd9" opacity="0.1"/>
+  <rect x="30" y="158" width="238" height="22" rx="6" fill="none" stroke="#1affd9" stroke-width="0.8" opacity="0.7"/>
+  <circle cx="46" cy="169" r="4" fill="#1affd9" filter="url(#glowText)" class="dot"/>
+  <text x="58" y="173" font-family="Fira Code, monospace" font-size="11.5" fill="#1affd9" font-weight="700">OPEN TO INTERNSHIP OPPORTUNITIES</text>
 </svg>
