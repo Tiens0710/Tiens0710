@@ -28,15 +28,9 @@
 
 ## `> career_objective.txt`
 
-```yaml
-objective: >
-  Computer Science student with 2+ years of hands-on experience in Odoo
-  development, AI/ML systems, and blockchain technologies. Seeking an
-  internship to apply expertise in building scalable software solutions,
-  integrating AI into real-world applications, and contributing to
-  impactful engineering work.
-status: Open to internship opportunities
-```
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tiens0710/Tiens0710/main/career_objective.svg" width="820" alt="Career Objective"/>
+</div>
 
 <br/>
 
