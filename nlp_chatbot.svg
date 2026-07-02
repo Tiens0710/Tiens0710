@@ -25,5 +25,5 @@
   <!-- tech -->
   <text x="24" y="86" font-family="Fira Code, monospace" font-size="12" fill="#c084fc" opacity="0.9">PhoBERT  Transformers  PyTorch  Streamlit</text>
   <!-- desc -->
-  <text x="24" y="102" font-family="Fira Code, monospace" font-size="11" fill="#7d8590">Intent & entity recognition for admissions counseling</text>
+  <text x="24" y="102" font-family="Fira Code, monospace" font-size="11" fill="#7d8590">Intent &amp; entity recognition for admissions counseling</text>
 </svg>
