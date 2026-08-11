@@ -1,30 +1,12 @@
 <div align="center">
 
-<img src="name_banner.svg" alt="Nguyen Nhat Tien" width="820" />
+<img src="portfolio_hero.svg" alt="Cyberpunk portfolio hero for Nguyen Nhat Tien" width="820" />
 
 <p>
-  <code>AI ENGINEER</code> &nbsp;/&nbsp; <code>FULL-STACK DEVELOPER</code>
+  <a href="https://tiens0710.id.vn/"><img src="https://img.shields.io/badge/OPEN_PORTFOLIO-1e8fff?style=for-the-badge&logo=googlechrome&logoColor=ffffff" alt="Open portfolio" /></a>
+  <a href="mailto:tengiadd7@gmail.com"><img src="https://img.shields.io/badge/CONTACT_SIGNAL-00e5ff?style=for-the-badge&logo=gmail&logoColor=06070d" alt="Contact" /></a>
+  <a href="https://github.com/Tiens0710"><img src="https://img.shields.io/badge/SOURCE_NODE-06070d?style=for-the-badge&logo=github&logoColor=00e5ff" alt="GitHub" /></a>
 </p>
-
-<p>
-  Computer Science student building applied AI systems, Agentic RAG pipelines,<br/>
-  computer-vision tools, text-to-3D workflows, and user-facing products.
-</p>
-<p>
-  <a href="https://tiens0710.id.vn/"><img src="https://img.shields.io/badge/PORTFOLIO-tiens0710.id.vn-06070d?style=for-the-badge&logo=googlechrome&logoColor=00e5ff&labelColor=1e8fff" alt="Portfolio" /></a>
-  <a href="mailto:tengiadd7@gmail.com"><img src="https://img.shields.io/badge/OPEN_TO_INTERNSHIP-00e5ff?style=for-the-badge&logoColor=06070d&labelColor=06070d" alt="Open to internship" /></a>
-  <a href="https://github.com/Tiens0710"><img src="https://img.shields.io/badge/GITHUB-Tiens0710-06070d?style=for-the-badge&logo=github&logoColor=00e5ff&labelColor=1e8fff" alt="GitHub" /></a>
-</p>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e8fff,100:00e5ff&height=3&width=820" width="100%" alt="cyan divider" />
-
-<br/>
-
-<div align="center">
-
-<img src="terminal.svg" alt="Terminal showing Tien's profile, role, education, and availability" width="820" />
 
 </div>
 
