@@ -33,70 +33,49 @@
 
 ## `01 / IDENTITY`
 
-<table>
-  <tr>
-    <td width="58%" valign="top">
+<div align="center">
 
-### `profile_id // NT-0710`
+<img src="identity_compact.svg" alt="Identity profile and career objective" width="820" />
 
-**Nguyễn Nhật Tiến**<br/>
-`AI ENGINEER / FULL-STACK DEVELOPER`
+</div>
 
+<details>
+<summary><code>read identity data</code></summary>
+
+<br/>
+
+**Nguyễn Nhật Tiến** — AI Engineer / Full-stack Developer<br/>
 Computer Science student at Can Tho University of Technology, focused on applied AI, LLMs, Agentic RAG, computer vision, text-to-3D, and user-facing software systems.
 
-| Signal | Current state |
-| --- | --- |
-| **ROLE** | AI Engineer |
-| **BASE** | Can Tho, Vietnam |
-| **MODE** | Build / Learn |
-| **ACADEMIC WINDOW** | 2022—2027 |
-
-    </td>
-    <td width="42%" valign="top">
-
-### `career_objective.txt`
-
-> Seeking an AI Engineer or Software Engineer internship to build reliable AI products.
-
-**Experience**<br/>
-Odoo and smart-farm management systems, including Google Maps integration for operational monitoring.
-
-**Specialties**<br/>
-`Agentic RAG` &nbsp; `LLM integrations`<br/>
-`Text-to-3D` &nbsp; `Computer Vision`
-
-    </td>
-  </tr>
-</table>
+</details>
 
 <br/>
 
 ## `02 / TECH_STACK --LIST`
 
-**AI / ML**
+<div align="center">
+
+<img src="skills_compact.svg" alt="Tech stack across AI, full-stack, 3D vision, and infrastructure" width="820" />
+
+</div>
+
+<details>
+<summary><code>inspect tools</code></summary>
+
+<br/>
 
 ![Python](https://img.shields.io/badge/Python-06070d?style=for-the-badge&amp;logo=python&amp;logoColor=00e5ff)
 ![PyTorch](https://img.shields.io/badge/PyTorch-06070d?style=for-the-badge&amp;logo=pytorch&amp;logoColor=1e8fff)
 ![LangChain](https://img.shields.io/badge/LangChain-06070d?style=for-the-badge&amp;logo=chainlink&amp;logoColor=00e5ff)
 ![Gemini API](https://img.shields.io/badge/Gemini_API-06070d?style=for-the-badge&amp;logo=googlegemini&amp;logoColor=00e5ff)
-![OpenCV](https://img.shields.io/badge/OpenCV-06070d?style=for-the-badge&amp;logo=opencv&amp;logoColor=1e8fff)
-
-**Full-stack**
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-06070d?style=for-the-badge&amp;logo=typescript&amp;logoColor=00e5ff)
 ![React](https://img.shields.io/badge/React-06070d?style=for-the-badge&amp;logo=react&amp;logoColor=1e8fff)
 ![Next.js](https://img.shields.io/badge/Next.js-06070d?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=00e5ff)
 ![FastAPI](https://img.shields.io/badge/FastAPI-06070d?style=for-the-badge&amp;logo=fastapi&amp;logoColor=1e8fff)
-![NestJS](https://img.shields.io/badge/NestJS-06070d?style=for-the-badge&amp;logo=nestjs&amp;logoColor=00e5ff)
-![Odoo](https://img.shields.io/badge/Odoo-06070d?style=for-the-badge&amp;logo=odoo&amp;logoColor=1e8fff)
-
-**Data / infrastructure**
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-06070d?style=for-the-badge&amp;logo=postgresql&amp;logoColor=00e5ff)
-![Redis](https://img.shields.io/badge/Redis-06070d?style=for-the-badge&amp;logo=redis&amp;logoColor=1e8fff)
-![Docker](https://img.shields.io/badge/Docker-06070d?style=for-the-badge&amp;logo=docker&amp;logoColor=00e5ff)
-![Three.js](https://img.shields.io/badge/Three.js-06070d?style=for-the-badge&amp;logo=threedotjs&amp;logoColor=1e8fff)
-![Unity](https://img.shields.io/badge/Unity-06070d?style=for-the-badge&amp;logo=unity&amp;logoColor=00e5ff)
+![Docker](https://img.shields.io/badge/Docker-06070d?style=for-the-badge&amp;logo=docker&amp;logoColor=1e8fff)
+
+</details>
 
 <br/>
 
@@ -150,25 +129,20 @@ Odoo and smart-farm management systems, including Google Maps integration for op
 
 ## `04 / open_channel`
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+<div align="center">
 
-### `contact_channels`
+<img src="contact_compact.svg" alt="Contact channels and availability" width="820" />
 
-**EMAIL**<br/>
-[tengiadd7@gmail.com](mailto:tengiadd7@gmail.com)
+</div>
 
-**WEBSITE**<br/>
-[tiens0710.id.vn](https://tiens0710.id.vn/)
+<div align="center">
 
-**GITHUB**<br/>
-[github.com/Tiens0710](https://github.com/Tiens0710)
+[EMAIL](mailto:tengiadd7@gmail.com) &nbsp;·&nbsp; [WEBSITE](https://tiens0710.id.vn/) &nbsp;·&nbsp; [GITHUB](https://github.com/Tiens0710)
 
-    </td>
-    <td width="50%" valign="top">
+</div>
 
-### `certificates.log`
+<details>
+<summary><code>cat certificates.log</code></summary>
 
 ```diff
 + Software Engineer Intern — HackerRank
@@ -179,16 +153,12 @@ Odoo and smart-farm management systems, including Google Maps integration for op
 + Python (Basic) — HackerRank
 ```
 
-    </td>
-  </tr>
-</table>
+</details>
 
 <br/>
 
 <div align="center">
-
 <code>root@tien:~$ echo "Thanks for stopping by. Let's build something."</code>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00e5ff,100:06070d&amp;height=100&amp;section=footer" width="100%" alt="cyan footer" />
