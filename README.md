@@ -1,15 +1,6 @@
 <div align="center">
 
-<img src="name_banner.svg" alt="Nguyen Nhat Tien" width="820" />
-
-<p>
-  <code>AI ENGINEER</code> &nbsp;/&nbsp; <code>FULL-STACK DEVELOPER</code>
-</p>
-
-<p>
-  Computer Science student building applied AI systems, Agentic RAG pipelines,<br/>
-  computer-vision tools, text-to-3D workflows, and useful full-stack products.
-</p>
+<img src="hero_compact.svg" alt="Cyberpunk hero for Nguyen Nhat Tien" width="820" />
 
 <p>
   <a href="https://tiens0710.id.vn/"><img src="https://img.shields.io/badge/PORTFOLIO-1e8fff?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=ffffff" alt="Portfolio" /></a>
