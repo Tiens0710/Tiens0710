@@ -72,47 +72,31 @@ Computer Science student at Can Tho University of Technology, focused on applied
 
 ## `03 / ls -la projects/`
 
+<p align="center"><sub>AI systems · full-stack products · computer vision · 3D workflows · Odoo</sub></p>
+
 <div align="center">
 
 <a href="https://github.com/Tiens0710/DATN-3d"><img src="text_to_3d.svg" width="100%" alt="SpatialFlow — Text-to-3D Furniture Scene Reconstruction" /></a>
-
-**SpatialFlow — Text-to-3D Furniture Scene Reconstruction**<br/>
-`Python` · `FastAPI` · `PyTorch` · `Diffusers` · `TRELLIS`
 
 <br/>
 
 <a href="https://github.com/Tiens0710"><img src="ai_agents.svg" width="100%" alt="Autonomous AI Marketing and E-Commerce Ecosystem" /></a>
 
-**Autonomous AI Marketing &amp; E-Commerce Ecosystem**<br/>
-`Python` · `Flask` · `Playwright` · `LangChain` · `Docker`
-
 <br/>
 
 <a href="https://github.com/Tiens0710"><img src="fogether.svg" width="100%" alt="InTem CanTho — Interactive 3D E-Commerce" /></a>
-
-**InTem CanTho — Interactive 3D E-Commerce**<br/>
-`Next.js` · `React` · `Three.js` · `NestJS` · `PostgreSQL` · `Redis`
 
 <br/>
 
 <a href="https://github.com/Tiens0710/ChatbotHoTroTuyenSinh"><img src="rag_assistant.svg" width="100%" alt="Student AI Assistant — Agentic RAG" /></a>
 
-**Student AI Assistant — Agentic RAG**<br/>
-`Python` · `LangChain` · `Gemma` · `Gemini API` · `ChromaDB`
-
 <br/>
 
 <a href="https://github.com/Tiens0710/unity-pokemon-motion-detection"><img src="pokemon_motion.svg" width="100%" alt="Pokemon Motion Controller" /></a>
 
-**Pokemon Motion Controller — AI &amp; Unity**<br/>
-`Python` · `MediaPipe` · `OpenCV` · `Unity` · `C#` · `UDP`
-
 <br/>
 
 <a href="https://github.com/Tiens0710"><img src="smart_farm.svg" width="100%" alt="Smart Farm Management System" /></a>
-
-**Smart Farm Management System**<br/>
-`Odoo` · `Python` · `XML` · `PostgreSQL` · `Google Maps`
 
 </div>
 
