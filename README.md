@@ -3,7 +3,9 @@
 <img src="hero_compact.svg" alt="Cyberpunk hero for Nguyen Nhat Tien" width="820" />
 
 <p>
-  <a href="https://tiens0710.id.vn/"><img src="https://img.shields.io/badge/PORTFOLIO-1e8fff?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=ffffff" alt="Portfolio" /></a>
+  <a href="https://tiens0710.id.vn/"><img src="https://img.shields.io/badge/PORTFOLIO-tiens0710.id.vn-1e8fff?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=ffffff" alt="Visit my portfolio website" width="240" /></a>
+</p>
+<p>
   <a href="mailto:tengiadd7@gmail.com"><img src="https://img.shields.io/badge/OPEN_TO_INTERNSHIP-00e5ff?style=for-the-badge&amp;logo=gmail&amp;logoColor=06070d" alt="Open to internship" /></a>
   <a href="https://github.com/Tiens0710"><img src="https://img.shields.io/badge/GITHUB-06070d?style=for-the-badge&amp;logo=github&amp;logoColor=00e5ff" alt="GitHub" /></a>
 </p>
